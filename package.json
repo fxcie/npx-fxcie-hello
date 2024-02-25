@@ -1,0 +1,23 @@
+{
+  "name": "@fxcie/hello",
+  "version": "0.1.0",
+  "description": "Hello World for npx",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fxcie/npx-fxcie-hello.git"
+  },
+  "keywords": [
+    "npx",
+    "helloworld"
+  ],
+  "author": "Francis Carelse",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/fxcie/npx-fxcie-hello/issues"
+  },
+  "homepage": "https://github.com/fxcie/npx-fxcie-hello#readme"
+}
