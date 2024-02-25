@@ -1,10 +1,10 @@
 {
   "name": "@fxcie/hello",
-  "version": "0.1.0",
+  "version": "0.1.0-2",
   "description": "Hello World for npx",
-  "main": "index.js",
   "bin": {
-    "@fxcie/hello": "./index.js"
+    "@fxcie/hello": "./bin/hello.sh",
+    "hello": "./bin/hello.sh"
   },
   "scripts": {
     "test": "npx jest"
