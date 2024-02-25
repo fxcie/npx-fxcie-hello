@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Hello World for npx",
   "main": "index.js",
+  "bin": {
+    "@fxcie/hello": "./index.js"
+  },
   "scripts": {
     "test": "npx jest"
   },
